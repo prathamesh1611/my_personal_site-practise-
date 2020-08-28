@@ -1,0 +1,95 @@
+body{
+  margin: 0;
+
+}
+h1{
+  margin: 0;
+}
+.top-container{
+  background-color:#89c9b8;  /*color changing accordingly as you write it simultaneously*/
+}
+
+.s{
+  position: relative;
+  bottom: 750px;
+  right: 50px;
+  color: #206a5d;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.c{
+  position: relative;
+  bottom: 750px;
+  right: 20px;
+  color: #206a5d;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.firstcloud{
+  position: relative;
+  left:770px;
+  top:20px;
+  height: 60px;
+}
+
+.secondcloud{
+  position: relative;
+  bottom: 530px;
+  left: 240px;
+  display: inline-block;
+  height: 60px;
+}
+
+.name{
+  position: relative;
+  top: 40px;
+  left:450px;
+  font-family: 'Pacifico', cursive;
+  font-style: italic;
+  font-size: 70px;
+  color:#206a5d;
+}
+
+.abc{
+  position: relative;
+  top:50px;
+  left:550px;
+  color:#206a5d;
+  font-size:30px;
+  font-style: italic;
+}
+
+.decorate{
+  text-decoration: underline;
+}
+
+.img{
+  width:900px;
+}
+
+
+.middle-container{
+
+
+}
+
+.qwerty{
+  font-size: 25px;
+}
+
+.skills_1{
+  text-decoration: underline;
+  color:#07689f;
+}
+
+
+.bottom-container{
+  background-color: #89c9b8;
+
+}
+
+.footer-link{
+  font-size: 20px;
+}
